@@ -31,7 +31,7 @@
 <p><a href="https://www.buymeacoffee.com/Shahid yaseen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shahid yaseen" /></a></p><br><br>
 
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-yaseen&show_icons=true&locale=en&layout=compact" alt="shahid-yaseen" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-yaseen&show_icons=true&locale=en&layout=compact" alt="shahid-yaseen" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shahid-yaseen&" alt="shahid-yaseen" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shahid-yaseen&" alt="shahid-yaseen" /></p>
 </div>
