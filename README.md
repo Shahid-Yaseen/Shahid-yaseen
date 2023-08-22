@@ -31,6 +31,8 @@
 
 <div>
   <p><img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-yaseen&show_icons=true&locale=en&layout=compact" alt="shahid-yaseen" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahid-yaseen&show_icons=true&locale=en" alt="shahid-yaseen" /></p>
 
-<p><img align='right'  src="https://github-readme-streak-stats.herokuapp.com/?user=shahid-yaseen&" alt="shahid-yaseen" /></p>
 </div>
+<p><img align='left'  src="https://github-readme-streak-stats.herokuapp.com/?user=shahid-yaseen&" alt="shahid-yaseen" /></p>
+
