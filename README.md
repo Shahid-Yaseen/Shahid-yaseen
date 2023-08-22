@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shahid Yaseen</h1>
 <h3 align="center">A Passionate Full Stack Web Developer & Student At UCP From Pakistan</h3>
-<img align="center"src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif" alt="Animated_image" /> 
+<img width="100%" align="center"src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif" alt="Animated_image" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid-yaseen&label=Profile%20views&color=0e75b6&style=flat" alt="shahid-yaseen" /> </p>
 
 - 🔭 I’m currently working on **Nature Tour**
